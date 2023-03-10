@@ -64,7 +64,7 @@ body {
 /* Wrapper */
 
 #wrapper {
-    background-image: linear-gradient(rgba(137, 137, 137, 0.2), rgb(74, 0, 87)), url(../images/background3.jpg);
+    background-image: linear-gradient(rgba(137, 137, 137, 0.2), rgb(74, 0, 87)), url(../images/background-long.jpg);
     background-position: cover;
     background-repeat: no-repeat;
 }
